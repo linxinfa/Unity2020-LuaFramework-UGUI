@@ -1,0 +1,43 @@
+ManifestFileVersion: 0
+CRC: 2579571553
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 723c05d1713dfdd687f5b94f13ae6903
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f082a03e58234dcb9b2372e64b655efa
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/LuaFramework/Examples/Builds/Message/MessagePanel.prefab
+Dependencies:
+- E:/unity_projects/LuaFramework_UGUI-master/Assets/StreamingAssets/shared_asset.unity3d

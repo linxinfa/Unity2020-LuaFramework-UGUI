@@ -1,0 +1,1 @@
+E:\unity_projects\LuaFramework_UGUI-master\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
